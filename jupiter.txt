@@ -1,3 +1,5 @@
 Jupiter is a gas giant
 it big
 sure !
+
+size isn't the most important thing!
